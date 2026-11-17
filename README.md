@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/icon.png" width="128" alt="TelegraPh icon">
-</p>
-
 <h1 align="center">TelegraPh</h1>
 
 <p align="center">
@@ -31,20 +27,8 @@
 
 ## Installation
 
-1. Jailbreak your device and install **AppSync** from Cydia.
-2. Download `TelegraPh-iOS5_0-armv7.ipa` from the [Releases](../../releases) page.
-3. Install it with one of:
-   - **iFile / Filza:** copy the `.ipa` to the device, open it, tap *Install*.
-   - **iTunes / 3uTools / iFunBox:** drag the `.ipa` onto the device.
-   - **SSH:** `ipainstaller TelegraPh-iOS5_0-armv7.ipa`
-4. Respring. TelegraPh appears on the home screen.
-
-If the app crashes on launch, re-sign it:
-
-```sh
-ldid -S Payload/TelegraPh.app/Telegram
-```
-
+1. Jailbreak your device and install **AppSync** and **AFC2** from Cydia.
+2. Download `TelegraPh-iOS5-armv7.ipa` from the correspondent IPA file with any installer on the PC.
 ## Notes
 
 - The bundle identifier is `dev.telegraph.client`. It differs from earlier builds, so you need to log in again.
