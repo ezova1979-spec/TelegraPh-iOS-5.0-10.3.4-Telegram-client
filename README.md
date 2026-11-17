@@ -28,7 +28,8 @@
 ## Installation
 
 1. Jailbreak your device and install **AppSync** and **AFC2** from Cydia.
-2. Download `TelegraPh-iOS5-armv7.ipa` from the correspondent IPA file with any installer on the PC.
+2. Download `TelegraPh-iOS5-armv7.ipa` from the [Releases](../../releases) pagewith with
+3. any installer on the PC.
 ## Notes
 
 - The bundle identifier is `dev.telegraph.client`. It differs from earlier builds, so you need to log in again.
