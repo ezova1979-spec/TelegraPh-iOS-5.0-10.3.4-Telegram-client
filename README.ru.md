@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" width="128" alt="Иконка TelegraPh">
+  <img src="IMG_2998.png" width="128" alt="Иконка TelegraPh">
 </p>
 
 <h1 align="center">TelegraPh</h1>
