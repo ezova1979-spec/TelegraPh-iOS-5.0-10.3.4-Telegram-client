@@ -25,7 +25,6 @@
 | Jailbreak | **Required** (the app is not signed by Apple) |
 | Installer | AppSync Unified (or equivalent) |
 
-## Installation
 <h2>Cydia repository</h2>
 
 <p>Add the repository to Cydia and install TelegraPh from there:</p>
@@ -46,7 +45,7 @@
 In that case download the <code>.deb</code> from
 <a href="https://github.com/ezova1979-spec/repo/releases">Releases</a>
 and install it with iFile or <code>dpkg -i</code>.</p>
-<h2>or</h2>
+## Installation with PC
 1. Jailbreak your device and install **AppSync** and **AFC2** from Cydia.
 2. Download `TelegraPh-iOS5-armv7.ipa` from the [Releases](../../releases) pagewith with
 3. any installer on the PC.
