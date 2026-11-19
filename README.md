@@ -26,7 +26,27 @@
 | Installer | AppSync Unified (or equivalent) |
 
 ## Installation
+<h2>Cydia repository</h2>
 
+<p>Add the repository to Cydia and install TelegraPh from there:</p>
+
+<p align="center">
+  <a href="https://ezova1979-spec.github.io/repo/">
+    <img src="https://ezova1979-spec.github.io/repo/CydiaIcon.png" width="60" alt="TelegraPh repo">
+  </a>
+</p>
+
+<ol>
+  <li>Open <b>Cydia → Sources → Edit → Add</b></li>
+  <li>Enter: <code>https://ezova1979-spec.github.io/repo/</code></li>
+  <li>Open the source, choose <b>TelegraPh</b> and tap <b>Install</b></li>
+</ol>
+
+<p><b>Note:</b> old Cydia on iOS 5 may fail with an SSL error on HTTPS sources.
+In that case download the <code>.deb</code> from
+<a href="https://github.com/ezova1979-spec/repo/releases">Releases</a>
+and install it with iFile or <code>dpkg -i</code>.</p>
+<h2>or</h2>
 1. Jailbreak your device and install **AppSync** and **AFC2** from Cydia.
 2. Download `TelegraPh-iOS5-armv7.ipa` from the [Releases](../../releases) pagewith with
 3. any installer on the PC.
