@@ -2,8 +2,6 @@
 
 <p align="center">
   A Telegram client for old iPhones — built for <b>iOS 5.0+</b> (armv7), tested on iPhone 3GS.<br>
-  <a href="README.ru.md">Русская версия</a>
-</p>
 
 ---
 
